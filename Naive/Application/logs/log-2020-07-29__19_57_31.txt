@@ -1,0 +1,5 @@
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6Ild1WXF1TUZVWkZVOElSYXN0RUNjM2c9PSIsInZhbHVlIjoiQ1lucFRPN2FhMjdGQnBJanlUMlF1SEI4REhDQjhJT1RXTHYzSVppY2ZhdWZ6TjBGRDdmNmdhb0I4dndPRVUwRiIsIm1hYyI6IjQyMWIwMThmZTJjYWVlNTFiN2U5YWRmYWU3MjgyNjZiMjgwZWZhNmQwNDhkZTI2ZTZlMTgxODI1OGQzYmQ5ZWQifQ%3D%3D; pi_academy_session=eyJpdiI6IjJuTXg1Q1h0RXpnaDF3ZmFVRGI0ZHc9PSIsInZhbHVlIjoiOFJPK0hxYUlXZEYzRHBoclwvRlNDeEJqRWhoRkdkMUpzYVUxVkR4Zm1TaEJnemxYcUtlYjFiSDlvT1dtcTRSOWQiLCJtYWMiOiI1NDc5NjViM2E1MzIxNzg0MjdmYzY4ZmJhZGYwMTI5ZjY0MmQxNDc1NGRlZGUxYTVlZGMxMDI2ZTFlMTQxNWE4In0%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dada&password=ada
+/login /login _token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dasa&password=dasdad
+normal

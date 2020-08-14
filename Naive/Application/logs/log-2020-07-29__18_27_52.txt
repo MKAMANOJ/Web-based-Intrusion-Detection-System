@@ -1,0 +1,5 @@
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IjJVMUdrTHBHakQzUGF1cm5aT0RpVWc9PSIsInZhbHVlIjoiUDIxZEwzWTVaS3pzVU9EMm5FVTJSdTk5SXFEbG1VMm1zUkRNTEZQTG9BclYzMFNtRks4aUU4WEpEZko2Z1lTZyIsIm1hYyI6IjE0OWNiYjIwNDI0NjhlNWQzNzYxN2FkYWM0MjA3ZWYyMjE5OWEwNmJjMzNiNjUxOWE0ZjFmOTE1YjY4YTU1NzkifQ%3D%3D; pi_academy_session=eyJpdiI6Ik9xcGRvTUg1R1FcLzZsdEd0S25CWE5nPT0iLCJ2YWx1ZSI6ImtOZjFIcEtIeVErTDJSM0F3Mzd5eGFtR09EcHArT0tlbFdiMzFKU3VoMGVKRmZpRzE4R0d3eEFpMmNjbDAxU0kiLCJtYWMiOiI2YzgzYTU3NmFhNDI5YThlOGQwMmVhZTg2MjNmMDY3MTFjOTMyZDM1Yjk1ZmExY2Y1ZmU4MDIxZWE4YzZkYzI3In0%3D\r\n\r\n
+/login 
+normal

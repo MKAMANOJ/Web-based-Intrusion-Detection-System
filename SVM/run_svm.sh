@@ -1,0 +1,5 @@
+python3 extractFeaturesFromDataset.py normal.txt
+python3 extractFeaturesFromDataset.py anomalous.txt
+python3 convert_txt_to_csv.py normalFeatureExtracted.txt
+python3 convert_txt_to_csv.py anomalousFeatureExtracted.txt
+python3 svm.py normalFeatureExtracted.csv anomalousFeatureExtracted.csv

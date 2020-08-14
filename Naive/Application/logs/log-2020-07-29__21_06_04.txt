@@ -1,0 +1,50 @@
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/civil-engineering/hydraulics/079001 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: text/css,*/*;q=0.1\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/css/css-res-min-1-15.css 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: */*\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/js/js-res-10.js 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/images/website/logo.gif 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/images/website/menu.png 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/images/website/closelabel.gif 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/images/website/loading.gif 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752\r\n\r\n
+/favicon.ico 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/079001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752\r\n\r\n
+/civil-engineering/hydraulics/077001 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/077001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/civil-engineering/hydraulics/077003 
+normal

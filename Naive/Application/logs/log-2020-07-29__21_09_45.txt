@@ -1,0 +1,42 @@
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/077003\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752\r\n\r\n
+/civil-engineering/hydraulics/080001 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/080001\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/civil-engineering/hydraulics/080003 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/080003\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/images/civil-engineering/hydraulics/149-7.104-1.png 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nDNT: 1\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nReferer: http://www.indiabix.com/civil-engineering/hydraulics/080003\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1249435012.1596074752; _gid=GA1.2.2031167224.1596074752; _gat=1\r\n\r\n
+/_files/images/civil-engineering/hydraulics/56-3.94-2.png 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6ImpXdkgyUnNoQlwvbDZqUUlTcWRJcnlRPT0iLCJ2YWx1ZSI6IjU3dFwvM1wvTVNkK0RaSHpMOVwvcTNaNXRvdW9LWk5OZGNtb3BJOWt0aUZSUTVNUnk2Y0FPK1BhTk9MbkJyWHlVdEYiLCJtYWMiOiI0OTA4YzYzNTk1ODMwOTk1ODc2NjIwY2U1MjQ1YWZmMTM3M2JkZjk0YjNlYjI4ODVhMDU5MzNkMzc4ZGQ5MzMwIn0%3D; pi_academy_session=eyJpdiI6IldPNnZBa1AwdzQwTStEMDlWNjRYalE9PSIsInZhbHVlIjoiV29Tc05OaWxKOXJDZkR5T3ozUU9vXC9IRGU3OFkrVHE5WktJWDBWME5ETlZHaE5mVml6bmpJM042ZmMxZjFYSjIiLCJtYWMiOiI1YjU3ZDBhOWU4ZGJiOTM2MDQ2ZWQ3YmNhNTRiNDM4MjM5Y2M1MzU2MWNhZDE0NTk1ZjZlMDFhMzdmYTA2ZWY2In0%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dsa&password=daa
+/login 
+_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dsa&password=daa
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IkdxWTFsam9MMkt0OFljelorQnpoaWc9PSIsInZhbHVlIjoiSXBuMG5CS2V2eFR5T1hnUWp4R1JhQnJYY3dwR2JQQWJRV3B0NTE0NHpyY1E4R1Q2S0VGaWdQblVaYkhIUnI0RyIsIm1hYyI6IjFiMWE0ODM4OWMwZmZjM2EwMDAzZWM3MGRhN2E1YzdjZDRkODBkNTE1MzBmNWYwY2ZkMzIzOTFmMjhmYmFmYzgifQ%3D%3D; pi_academy_session=eyJpdiI6IlVNdjdUTytCXC8zWDRtMjJZdFwvSFhNUT09IiwidmFsdWUiOiJ3eVRIMWd6THB5XC9jVWdwanA0RnJ5K1hKVEJJMnFvbzdYanNcL0ZXUGdGeGczQ1hNT2RUdWNubFZUOUhnWXpFNzIiLCJtYWMiOiI2MzUzOTZhZmZjNzY5ZDE0MDEyZmRhNzdmMzcwODMwOTllNDVkZWMwMjNkMmZhYmZhM2ZlNDg2YTgwMjhhMDA3In0%3D\r\n\r\n
+/login 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IjNXREk5cG5xaEdjU3NYK0xXc296S0E9PSIsInZhbHVlIjoiY21uNDEwdTFWQzVBQVZPVFdrSjFTM3J1RkkwemFETk1oa3BNMnF6RXpVUE0yYUZHMzlcL1Yxem12N3AyV3BkbHEiLCJtYWMiOiJmNzllNDI2ZGZkY2IwYjg1MGQwZTlkYjc3NGViOTc1ZGM4ZDNlYjJmYWQ0MDQ0YjQxZTk3NWM4MDc5YzA2ZmRiIn0%3D; pi_academy_session=eyJpdiI6InQ3MkI2cWdDTzc2OUtVOG9GZmdIZ1E9PSIsInZhbHVlIjoiK0JraVF6bnczbzNpQktoT0M0dEJIdDFpbEZldjNWUFY5MytoUnhuR2c2TXVNN1VkNThoMjI2ZzZ0S21BcmJRUiIsIm1hYyI6IjA0NmQwMTEzMTgxZGIxZTZmYzM2NzkwYWMyNWJjNGFmZDgxOWIwNjVlNDUyNzE1M2Q1MDA1MTg5MGEyODRiNmYifQ%3D%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=%27+or+%271%27%3D%271&password=kjaslkjsk
+/login 
+_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email='+or+'1'='1&password=kjaslkjsk
+anomalous
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IkplV2RIaXNNN0NPSVRmVG5UUHdRVkE9PSIsInZhbHVlIjoiTzhNQ052TUVaRFczRmhsWlVYR3N2NlJrbHpnczlpSWNlS2JoeGRRUTkyVGtcL2REOHppaDFuR21xTldSc1R1RmEiLCJtYWMiOiI5NzczMWMwNzVkMDc0YWQzNmY0ZmY4ZjE0ZmJmOTk5MGNjYzI3Y2UxNmE2ZTE2NGQ3ZGY4MmRkYzBhNTM2MTU5In0%3D; pi_academy_session=eyJpdiI6IjJ3YXVHT1pjNGlRTUpEK0Y2eUxjSGc9PSIsInZhbHVlIjoiQm9IK3JpamxwUG1qRFhycVQ4WjFhQnpSQTdIRWp6MW5URStzZHdrazQxYmx5aUdBUitDKzdjZnBiNDV2S1VLQiIsIm1hYyI6ImI0MTcwMjk5OTM4N2ZlMjRhN2M0ODA0NDcyZWI1OTZmOGRlYTA0YWJlNzViZmU3MjI0YzM4NTc3YjRjZGI3ODkifQ%3D%3D\r\n\r\n
+/login 
+normal

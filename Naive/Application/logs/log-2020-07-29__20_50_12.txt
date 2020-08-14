@@ -1,0 +1,17 @@
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6ImZTeVhteTVKRGNJeldtdTFSM0tHM2c9PSIsInZhbHVlIjoieThGRjZhdU9QSUxraUk5cWhtcnlaVERFZ2tkc3lSejdPbHk4c1puYzFVR3lyRHN1TDEwclFyNDJLN2hqdng1QiIsIm1hYyI6IjFhOTAxZmZjNzU0MzQxNDA3MzRkNTU1MzI0NTgwMWY1ZGQ5YjYyMjgxNjBjNzZkNGVlOGU4NzkwMTljMTc4Y2MifQ%3D%3D; pi_academy_session=eyJpdiI6IlI4bWtcL2d5YmVEckZXVmdyXC9rc2tkdz09IiwidmFsdWUiOiJOXC9Manh5UStlblphaCtaZUE3NDZlMkhjWmk2aEg3NE1kUDRnV3B5MDhZZWRtanJjcDlONThHaEJmNVZkWGZucSIsIm1hYyI6Ijc5N2ZlZjQyMGYxZDExNTU1MzM2NTE4NzdiZWU5NTgzNjYzMmViMTIyZWEwMzljZGM4NzBkZDc3OGQyNDI0M2YifQ%3D%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dadsa&password=daasad
+/login 
+_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dadsa&password=daasad
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IjRXRFlST1JMTDZyK1hGQWloMjJOeGc9PSIsInZhbHVlIjoiQUxzUXQrelpvWW94VldNeTExSzZvWkxwM09Yb1hzVmUyNGVLeG4zMzZzQ2pTUitqeEp1cWo2eFlwaWR3YXVqaSIsIm1hYyI6ImIxNDUxNTVhY2NlZmIzZWI0NjE2ZDFmZjA4YTUyN2RiMWZlZDhkOTRmNzg2YjllMjk0ZjM5MjcyMmYyYWUxZjIifQ%3D%3D; pi_academy_session=eyJpdiI6ImFldFZNUXFGWDdPMGVVMkpVTlhaM1E9PSIsInZhbHVlIjoiM3E5bjA1amRRUXFrVFY2VGRWUURrZTJCNjBIbFBVUzlzVTVpTGptNGExazFcL09nVEtTXC83VTZBNXM1M1pGRXJiIiwibWFjIjoiMmM0NjEyYWQ1OWQ4NjQ4MmY2YjAyMmJhZWFiYjk0NjU3YTE0MjIyYjk2YWJlOGQwZGJmMWI3ZDg2Zjc3NWQyOSJ9\r\n\r\n
+/login 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IlpjT0JJcTA1OXJvQXcwU01mKzNzWEE9PSIsInZhbHVlIjoidTNWdEtRZlwvaTE1SkZTeGtZZmZiXC80OEs3N1BVTmNQY3R5OHZUNmczeVdObVJqQzAyaXFVT21RbXRXb1wvZG9mdyIsIm1hYyI6IjdiN2Y3YTM0YWY4NzA5YmNkYzRjYmE2NGRiNGVhZmRmM2YyZWZkMTI1MzUzNmRmMTAxZGRlOTQ5MTQzZGIwZDQifQ%3D%3D; pi_academy_session=eyJpdiI6IjhUVU5OeUpsRUg0R1NITUpIdW16Qmc9PSIsInZhbHVlIjoiUjk2VWU3cEpuQTRvaGgxVlcwM1RjZFdqUmZPTFwvMWNneU5JU3VPalZiVXhCZ1l4NnJRZ3BCeTJ6V0t1ZDdtWkIiLCJtYWMiOiJiZDk3NTk4YzUyYTVjNjFmNTJjMDQ2NTQ5MjkzZDQwMWFlNDQ3NDFmZDFiZTVlZjExMjc0OWZmY2QwYTYzYTFkIn0%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=abcdef&password=nalknalka
+/login 
+_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=abcdef&password=nalknalka
+normal

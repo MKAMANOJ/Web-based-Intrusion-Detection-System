@@ -1,0 +1,22 @@
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IlwveVRqRG11MUJoVFwvNlN4YVlta1wveFE9PSIsInZhbHVlIjoiUzNGcTQzWU1KdXBJNGMyOHFNYVV2dG1tSXdYSEV2cUpWcFJkYUpTbCtTMDlVQzVGVWRvbW9wcVlsVXF6UVwvTmQiLCJtYWMiOiJmZjY1MTM4YTJjNGM3ZGNlYzc3NTMyYzA5NTE4NzA0NTg1NDYwMmI4NjgxYjZjMzhmNmNiOWU4NDcyOGYzMGJkIn0%3D; pi_academy_session=eyJpdiI6Ik1kRXhvY2tnSGw4MmRweU85cmdzanc9PSIsInZhbHVlIjoiQ0dtSEJMc25HbWFDZW1YVXNkXC9UZFB4aGpcL2ZcL0V4ZWRJTVwvampFNWl1em5ZWW1ZRGx5aHA0TllkbGwzcGloK2IiLCJtYWMiOiJmYWNmYzUyNWY0ODg3NmI3NzZlZmY5NmRiNTUyMWZlZDA0ODZhZDc3M2MxMThkMjE3YjA5MDdiYmFkYjc5NzRiIn0%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dada&password=daada
+/login 
+_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=dada&password=daada
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6IlVsVjdXT0RsUnN5cnhwYllYZHJHdUE9PSIsInZhbHVlIjoiV3VcLzBnM3p6K2gya3pHMmE5dXhHQUdRQ0pVY1phQVBNUm10YzVzSlBKbDg2dXF4VUdvdHZ5OFNENlBnQTg5SzAiLCJtYWMiOiI5ZDJmZjAyYzk3NGI5N2YyNTViNWRkM2FmZjg4MjNmNzE1NDIyNjU5YTA2N2QwMmFmMDk3OTllZmVlYzk2ZDQwIn0%3D; pi_academy_session=eyJpdiI6ImdkVjQxWXlKRXRZbjFMQStuWkQ1Smc9PSIsInZhbHVlIjoiZ2ptUkJueTM2V2VyVitcLzc4RFRSaGdIUjltSDE4b0J4Zm42KzZFSnRUa0NrUDdGaGN4bnFUcmdLaVlXTmNWdGoiLCJtYWMiOiIyOWEzMTQ2NjVkNjkwN2NiMzA3MTI4MGRjOTE2ZmMzZGZkZTczMmRjOTk0YzE3YjZkODRhN2E0ZjcwZjFkOGExIn0%3D\r\n\r\n
+/login 
+normal
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6ImFYZ21ZT3FBYStKQnNkU0JVZmJQZ0E9PSIsInZhbHVlIjoibGFPUHZjTVdaZW91UVQ4REt0WGZzSmpwM1FKbzB5Z2tZdUdqdVF0T0JjT3QyZzZtOTlcL3F5aFZyWGxtV0RLOHAiLCJtYWMiOiJjODkxNzA5NDRkNmUwNjg2Y2YwY2MxNWJmZDFmOWEwMmEzODQ1ODM3Y2Q3OTBjNzE3OWM4NzhjM2Y1NGI2MWEzIn0%3D; pi_academy_session=eyJpdiI6IldpcGFiZTV6N0x4U2VFZlBleU1oSVE9PSIsInZhbHVlIjoibzB3cjNhakdBeUlvaVFBWUJ4cHJxQnhjTmxTcXdWVU9KVXRnK1wvNEhMZkN1WlM3WE5laFZpZ2tWZFlucXpIdDgiLCJtYWMiOiI5N2VmYzE4ZjA5NjE4NThkM2Q2NzBlMzc3MDFiOGQ0MTA2OGM4M2M1YjAxZjBlZGM5MGQ2Y2RhMDNiOGY5YWEzIn0%3D\r\n\r\n_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email=%27+or+%271%27%3D%271&password=anajknakjnak
+/login 
+_token=HQQatiPTh8GgDSq7SRZbq38B6rqU3v3E2gNtQIXI&email='+or+'1'='1&password=anajknakjnak
+anomalous
+18:3d:a2:7a:e8:0c
+192.168.0.20
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nReferer: http://pientrance.org/login\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\nCookie: _ga=GA1.2.1595616880.1594991216; _gid=GA1.2.1656455374.1596059741; XSRF-TOKEN=eyJpdiI6InJ4dTRuRWxLM256NHVkNWM0WnJcLzdnPT0iLCJ2YWx1ZSI6Im5DZlk1WENnakFEeWVOSWJRXC9GVW5LMFRmTXJZQVk2a253bE45dm1UdTVsS2tIMWpMQXpIeExHZDNBT1BldDl4IiwibWFjIjoiNjE2M2ZiYjJiZDllMTY3ODc2YzBkZmQ3MTNlY2NlZmJhMGRiMjk0MzcyNzUzMTBiYjM3NDVkY2RkMDg0YjRjMCJ9; pi_academy_session=eyJpdiI6IkVXU1lzeHBIWnlyNFdxVXYwcUtIV2c9PSIsInZhbHVlIjoiNW9sRkJDTTJUZXE4Vkd1WUZoSVwvV1hoQWtMMUZVWk85bFQydXFNS0I2SkNrZFlDQk9LQVFFVE5XN3pDNTRYMVEiLCJtYWMiOiJjNmNiZjU3NWM1YjI5OTQ2ZDYxOWIzZWI3Y2FkZTFiMjBkNDhjMThlY2YwMzY0NmVlZDYwZjUzYTBkOTViMTdlIn0%3D\r\n\r\n
+/login 
+normal
